@@ -1,0 +1,23 @@
+.form {
+  margin: auto;
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  right: 0;
+  border: 3px solid grey;
+  padding: 20px;
+  margin-top: 50px;
+  background-color: lavenderblush;
+}
+
+.content {
+  text-align: center;
+  margin-top: 15px;
+  
+
+}
+
+body{
+  background-color: lavender;
+}
